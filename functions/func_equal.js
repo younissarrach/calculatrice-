@@ -1,0 +1,1 @@
+equal.addEventListener('click', function() {
